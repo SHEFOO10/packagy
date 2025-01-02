@@ -1,0 +1,25 @@
+{
+    "name": "shefoo10/packagy",
+    "version": "1.0.0",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Shefoo10\\Packagy\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "SHEFOO10",
+            "email": "445585913@g102019.moe.edu.eg"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Shefoo10\\Packagy\\PackagyServiceProvider"
+            ]
+        }
+    }
+}
