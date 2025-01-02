@@ -1,6 +1,6 @@
 {
     "name": "shefoo10/packagy",
-    "version": "1.0.0",
+    "description": "Trying to make package",
     "license": "MIT",
     "autoload": {
         "psr-4": {
